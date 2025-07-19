@@ -1,5 +1,7 @@
 ## Hi there 👋
+I'm a student at Unibo, my degree is in Computer science and engineering.
 
+This is my [website](https://agostax0.github.io)
 <!--
 **Agostax0/Agostax0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
